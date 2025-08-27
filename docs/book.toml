@@ -1,0 +1,17 @@
+[book]
+authors = ["Rebecca Kane", "Scott Christian"]
+language = "en"
+multilingual = false
+src = "src"
+title = "HWIP Help Documentation"
+description = "Documentation for the Hazardous Waste Information Platform"
+
+[output.html]
+git-repository-url = "https://github.com/USEPA/hwip"
+edit-url-template = "https://github.com/USEPA/hwip/edit/master/docs/{path}"
+additional-css = ["theme/pagetoc.css"]
+additional-js = ["theme/pagetoc.js"]
+
+[output.html.fold]
+enable = true
+level = 2
