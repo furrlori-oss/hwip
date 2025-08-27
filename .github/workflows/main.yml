@@ -1,7 +1,7 @@
-name: "e-Manifest Services Docs"
+name: "hwip help documentation"
 
-# This workflow builds and deploys the USEPA e-Manifest web service documentation
-# It will only deploy to GitHub if the repo is 'USEPA/e-manifest'
+# This workflow builds and deploys the USEPA Hazardous Waste Information Platform documentation
+# It will only deploy to GitHub if the repo is 'USEPA/hwip'
 
 on:
   push:
