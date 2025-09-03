@@ -27,8 +27,8 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
-  logo: assets/favicon-128x128.png
-  favicon: assets/favicon-128x128.png
+  logo: assets/img/favicon-128x128.png
+  favicon: assets/img/favicon-128x128.png
 
   features:
     - search.highlight
