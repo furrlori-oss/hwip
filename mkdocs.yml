@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: HWIP
+site_url: https://usepa.github.io/hwip/
+theme:
+  name: material
