@@ -14,4 +14,13 @@ The word “site” on this website refers to any type of regulated hazardous wa
 - Search by Location
 - Use My Location
 ## Advanced Search Criteria
-- Coming Soon
+### Site
+- Site ID
+- Site Name
+- Include Previous Site Names?
+- NAICS Codes
+- Active Only?
+- Land Ownership
+- EPA Purview
+### Location
+- Etc.
