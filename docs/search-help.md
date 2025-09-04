@@ -15,26 +15,60 @@ The word “site” on this website refers to any type of regulated hazardous wa
 - Use My Location
 ## Advanced Search Criteria
 ### Site
-- **Site ID**: The unique EPA Identification Number assigned by EPA or authorized state agency to each hazardous waste handler. Allows entry of a partial ID number with at least two characters. Entry of a partial ID will return sites with ID numbers that begin with the search term.
-- **Site Name**
+**Site ID**
 
-  Or do we want the descriptions here? Search for facilities or permits by name or partial name. Be sure to try all possible variations of a facility's name. For example, if an abbreviation does not work, try using whole words (for example, International Metals Company instead of INMETCO). The search is not case sensitive. Anything else about how this works?
+The unique EPA Identification Number assigned by EPA or authorized state agency to each hazardous waste handler. Allows entry of a partial ID number with at least two characters. Entry of a partial ID will return sites with ID numbers that begin with the search term.
 
-- Include Previous Site Names?
+**Site Name**
 
-  Edit this. Only click this if you want to search for a zillion potential past names for this site. Seriously, it could be a lot.
+Or do we want the descriptions here? Search for facilities or permits by name or partial name. Be sure to try all possible variations of a facility's name. For example, if an abbreviation does not work, try using whole words (for example, International Metals Company instead of INMETCO). The search is not case sensitive. Anything else about how this works?
+
+**Include Previous Site Names?**
+
+Edit this. Only click this if you want to search for a zillion potential past names for this site. Seriously, it could be a lot.
   
-- NAICS Codes: Or do we like this better? A 2- to 6-digit code indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. [Census Bureau](https://www.census.gov/naics/). The first two digits represent the Industry sector, in which there exist 20 broad sectors. Each digit adds more specificity. How many digits must users include? Add how the search function functions.
-- Land Ownership
-- EPA Purview
+**NAICS Codes**
+
+Or do we like this better? A 2- to 6-digit code indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. [Census Bureau](https://www.census.gov/naics/). The first two digits represent the Industry sector, in which there exist 20 broad sectors. Each digit adds more specificity. How many digits must users include? Add how the search function functions.
+
+**Land Ownership**
+
+Description.
+
+**EPA Purview**
+
+Description.
+
 ### Location
-- Etc.
-- Etc.
+
+**Etc**
+
+Description.
+
+**Etc**
+
+Description.
+
 ### Waste Treatment, Storage or Disposal
-- Etc.
-- Etc.
+
+**Etc**
+
+Description.
+
+**Etc**
+
 ### Waste Generation
-- Etc.
-- Etc.
+
+**Etc**
+
+Description.
+
+**Etc**
+
+Description.
+
 ### Additional Activities
-- Etc.
+
+**Etc**
+
+Description.
