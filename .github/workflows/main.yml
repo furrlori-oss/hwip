@@ -2,8 +2,8 @@ name: Build GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+#    branches:
+#      - main
     paths:
       - 'docs/**'
       - "mkdocs.yml"
