@@ -1,3 +1,3 @@
-# APIs Help
+# Public APIs Help
 
-Coming soon.
+Web services facilitate direct access to HWIP data by third-party applications. Coming soon.
