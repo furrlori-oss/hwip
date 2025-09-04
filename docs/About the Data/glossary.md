@@ -1,3 +1,0 @@
-# Terms Glossary
-
-Coming soon.
