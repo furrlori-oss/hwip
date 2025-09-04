@@ -9,12 +9,8 @@ HWIP is the U.S. Environmental Protection Agency’s repository for nationwide h
 1. Overview of HWIP Features
 2. Video tutorial
 
-## Data Trends and Analysis Page Help
+## About the Data
 
-Filter by
+Link to glossary
 
-Search bar
-
-Sort by
-
-Card-Specific help
+Link to FAQ if we have one.
