@@ -1,9 +1,6 @@
-# e-Manifest
+# RCRAInfo's Hazardous Waste Information Platform (HWIP) Help Center
 
-June 30, 2018, the United States Environmental Protection Agency (USEPA or EPA) launched a national system for tracking
-hazardous waste shipments electronically, this system, known as "e-Manifest," modernizes the nation’s paper-intensive
-process for tracking hazardous waste from cradle to grave while saving valuable time, resources, and dollars for
-industry and states. 
+The Help Center for RCRAInfo’s Hazardous Waste Information Platform helps you find resources to assist in navigating and using the website's features. 
 
 e-Manifest is a component of EPA's [Resource Conservation and Recovery Act (RCRA)](https://www.epa.gov/rcra) information
 system, called RCRAInfo.
