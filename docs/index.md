@@ -1,34 +1,10 @@
-# RCRAInfo's Hazardous Waste Information Platform (HWIP) Help Center
+# RCRAInfo's Hazardous Waste Information Platform Help Center
 
-The Help Center for RCRAInfo’s Hazardous Waste Information Platform helps you find resources to assist in navigating and using the website's features. 
+The Help Center for [RCRAInfo’s Hazardous Waste Information Platform (HWIP)](https://rcrapublicpreprod.epa.gov/rcra-hwip/) helps you find resources to assist in navigating and using the website's features. 
 
-e-Manifest is a component of EPA's [Resource Conservation and Recovery Act (RCRA)](https://www.epa.gov/rcra) information
-system, called RCRAInfo.
-e-Manifest can be accessed by its users in two ways:
-
-1. Through their favorite web browser at [https://rcrainfo.epa.gov/](https://rcrainfo.epa.gov/)
-
-2. Via the RCRAInfo RESTful application programming interface (API)
-
-e-Manifest data is also publicly available 90-days after the manifest completed, or uploaded in the case of a paper
-manifest, on [RCRAInfo Web](https://rcrapublic.epa.gov/rcrainfoweb/action/main-menu/view).
-
-## Content
-
-This book contains the developer documentation and technical guidance for the e-Manifest services.
-
-For general information on e-Manifest, please visit [www.epa.gov/e-manifest](https://www.epa.gov/e-manifest).
-
-The e-Manifest Program also maintains a comprehensive list
-of [FAQs](https://www.epa.gov/e-manifest/frequent-questions-about-e-manifest).
+HWIP is the U.S. Environmental Protection Agency’s repository for nationwide hazardous waste generation, management, and transportation data. HWIP supports implementation of the Resource Conservation and Recovery Act of 1976, Hazardous and Solid Waste Amendments of 1984, and Hazardous Waste Electronic Manifest Establishment Act of 2012.
 
 ## Getting Started
 
-If you're just getting started, you'll likely want to complete these prerequisites
-
-1. [Register in the RCRAInfo test environment](Intro/registration.md) (Pre-Production).
-2. Subscribe to the e-Manifest mailing lists
-    - [e-Manifest General Program mailing list](https://public.govdelivery.com/accounts/USEPAORCR/subscriber/new?topic_id=USEPAORCR_4)
-    - [e-Manifest developer mailing list](https://public.govdelivery.com/accounts/USEPAORCR/subscriber/new?topic_id=USEPAORCR_9)
-
-{{#include ./components/footer.md}}
+1. Overview of HWIP Features
+2. Video tutorial
