@@ -1,60 +1,61 @@
-name: "hwip help documentation"
-
-# This workflow builds and deploys the USEPA Hazardous Waste Information Platform documentation
-# It will only deploy to GitHub if the repo is 'USEPA/hwip'
+name: Build GitHub Pages
 
 on:
   push:
     branches:
-      - 'master'
-      - 'main'
+      - main
     paths:
-      - 'docs/**/*'
+      - 'docs/**'
+      - "mkdocs.yml"
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
-env:
-  BOOK_DIRECTORY: ./docs
-  MDBOOK_VERSION: v0.4.37
-
 jobs:
-  build_docs:
+  build_site:
+    name: "Build Static Site"
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ${{ env.BOOK_DIRECTORY }}
     steps:
-      - name: Checkout
+      - name: "Checkout"
         uses: actions/checkout@v4
-
-      - name: Setup mdBook
-        run: |
-          mkdir bin
-          curl -sSL https://github.com/rust-lang/mdBook/releases/download/${{env.MDBOOK_VERSION}}/mdbook-${{env.MDBOOK_VERSION}}-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=bin
-      - name: Build Documentation
-        run: bin/mdbook build
-
-      - name: upload Docs
-        uses: actions/upload-pages-artifact@v3
         with:
-          path: "${{ env.BOOK_DIRECTORY }}/book"
+          fetch-depth: 0
 
-  deploy_pages:
-    if: github.repository == 'USEPA/hwip'
-    needs: build_docs
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.9
+
+      - name: "Install dependencies"
+        run: pip install mkdocs-material
+
+      - name: "Build site"
+        run: mkdocs gh-deploy --config-file ./mkdocs.yml --force
+
+  deploy_site:
+    name: "Deploy to GitHub Pages"
+    needs: build_site
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy to GitHub Pages
+      - name: "Checkout"
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - name: "Setup Pages"
+        uses: actions/configure-pages@v5
+
+      - name: "Upload artifact"
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: "Deploy to GitHub Pages"
         id: deployment
         uses: actions/deploy-pages@v4

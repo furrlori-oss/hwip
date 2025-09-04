@@ -242,7 +242,7 @@ the following checks are performed for all protected resources:
 
    - `E_BrokerAuthorizationSave: Brokers are not authorized to create Image manifests`
 
-3. For the [Delete](./Manifest/delete.md), [Correct](./Manifest/correct.md), and [Revert](./Manifest/revert.md)
+3. For the [Delete](Manifest/delete.md), [Correct](Manifest/correct.md), and [Revert](Manifest/revert.md)
    services, the system will check if the user has industry permissions for the TSDF, the Generator, or the Alternate
    TSDF, any of the listed Transporters, of Broker sites on the manifest. If the user does not have permissions, teh
    system will stop the processing and generate the following error:

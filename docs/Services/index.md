@@ -2,19 +2,19 @@
 
 RCRAInfo exposes a set of web services that allow industry and regulators to interact with the system programmatically.
 These services implement a RESTful design and can be categorized by the resource exposed and the type of user accessing
-The service. The services are secured using a [token-based authentication system](./authentication.md).
+The service. The services are secured using a [token-based authentication system](authentication.md).
 
 1. [All users] [Authentication services](authentication.md)
-2. [All users] [e-Manifest Lookup Services](./Lookup/e-manifest-lookup.md)
-3. [All users] [Lookup Services](./Lookup/lookup.md)
-4. [All users] [Site Services](./Site)
-5. [All users] [User Services](./user.md)
+2. [All users] [e-Manifest Lookup Services](Lookup/e-manifest-lookup.md)
+3. [All users] [Lookup Services](Lookup/lookup.md)
+4. [All users] [Site Services](Site)
+5. [All users] [User Services](user.md)
 6. [Industry users] [e-Manifest Services](Manifest/save.md)
-7. [Industry users] [e-Manifest UI Link Services](./Manifest/ui-link.md)
+7. [Industry users] [e-Manifest UI Link Services](Manifest/ui-link.md)
 8. [Regulator users] CM&E Evaluation Services
 9. [Regulator users] [e-Manifest Services](Manifest/states.md)
-10. [Regulator users] [Handler Services](./Site)
-11. [Regulator users] [User Services](./user.md)
+10. [Regulator users] [Handler Services](Site)
+11. [Regulator users] [User Services](user.md)
 
 ## Base URL
 

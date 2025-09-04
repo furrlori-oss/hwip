@@ -2,9 +2,9 @@
 
 The following pages document the available site services.
 
-- [Search](./site-search.md)
-- [Details](./site-details.md)
-- [Exists](./site-exists.md)
+- [Search](site-search.md)
+- [Details](site-details.md)
+- [Exists](site-exists.md)
 
 The site services allow third-party applications to gather information about sites registered in the e-Manifest system.
 The site services are read-only and do not allow third-party applications to create, update, or delete sites. User

@@ -15,7 +15,7 @@ paper. When the waste reaches its destination, the designated receiving facility
 e-Manifest system using one
 of [the available submission methods](https://www.epa.gov/e-manifest/how-submit-hazardous-waste-manifest).
 
-![sample paper manifest](../assets/sample_uniform_hazardous_waste_manifest.png)
+![sample paper manifest](../assets/img/sample_uniform_hazardous_waste_manifest.png)
 
 Only [registered manifest printers](https://www.epa.gov/hwgenerators/hazardous-waste-manifest-system#printer) can print
 paper manifest. You can print paper copies of electronic and hybrid manifest from the e-Manifest system to carry onboard
@@ -392,7 +392,7 @@ certain manifest submission types (e.g, electronic manifests vs Data + Image).
    e-Manifest system and uploaded after the TSDF receives the shipment, paper manifests can only be assigned a
    subset of the available statuses.
 
-   ![manifest status](../assets/manifest_statuses.jpg)
+   ![manifest status](../assets/img/manifest_statuses.jpg)
    _Green boxes are shared by electronic/hybrid and paper manifests._
 
 2. **Codes**: Items such as waste codes, management method codes, and units of measurements can contain additional
