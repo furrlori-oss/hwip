@@ -13,6 +13,8 @@ This repository houses the public help center content for RCRAInfo's Hazardous W
 
 ### Setup
 
+In Settings (via apps) under System > For developers (alternatively search for Script) under "PowerShell" change the execution policy to allow PowerShell to run without signing to On.
+
 Assuming you are using a unix-like terminal or Windows PowerShell.
 
 1. Clone the repository:
