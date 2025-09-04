@@ -1,2 +1,2 @@
-*Site Search Results
-**Etc.
+* Site Search Results
+** Etc.
