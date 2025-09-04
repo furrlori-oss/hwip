@@ -1,2 +1,2 @@
-# Search Results Help
+# Site Search Results Help
 ## Etc.
