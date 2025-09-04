@@ -1,4 +1,4 @@
-# RCRAInfo's Hazardous Waste Information Platform Help Center
+# Help Center
 
 The Help Center for [RCRAInfo’s Hazardous Waste Information Platform (HWIP)](https://rcrapublicpreprod.epa.gov/rcra-hwip) helps you find resources to assist in navigating and using the website's features. 
 
