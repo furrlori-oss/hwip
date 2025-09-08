@@ -21,15 +21,15 @@ The unique EPA Identification Number assigned by EPA or authorized state agency 
 
 **Site Name**
 
-Or do we want the descriptions here? Search for facilities or permits by name or partial name. Be sure to try all possible variations of a facility's name. For example, if an abbreviation does not work, try using whole words (for example, International Metals Company instead of INMETCO). The search is not case sensitive. Anything else about how this works?
+Search for facilities or permits by name or partial name. Be sure to try all possible variations of a facility's name. For example, if an abbreviation does not work, try using whole words (for example, International Metals Company instead of INMETCO). The search is not case sensitive. Anything else about how this works?
 
 **Include Previous Site Names?**
 
-Edit this. Only click this if you want to search for a zillion potential past names for this site. Seriously, it could be a lot.
+Edit this.
   
 **NAICS Codes**
 
-Or do we like this better? A 2- to 6-digit code indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. [Census Bureau](https://www.census.gov/naics/). The first two digits represent the Industry sector, in which there exist 20 broad sectors. Each digit adds more specificity. How many digits must users include? Add how the search function functions.
+A 2- to 6-digit code indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. [Census Bureau](https://www.census.gov/naics/). The first two digits represent the Industry sector, in which there exist 20 broad sectors. Each digit adds more specificity. How many digits must users include? Add how the search function functions.
 
 **Land Ownership**
 
