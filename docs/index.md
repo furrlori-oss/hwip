@@ -1,4 +1,4 @@
- <div style="text-align:center;"># Help Center</div>
+# Help Center
 
 The Help Center for [RCRAInfo’s Hazardous Waste Information Platform (HWIP)](https://rcrapublicpreprod.epa.gov/rcra-hwip) helps you find resources to assist in navigating and using the website's features. 
 
