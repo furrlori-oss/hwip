@@ -4,6 +4,6 @@ https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/st
 */
 :root  > * {
     --md-primary-fg-color:        #323a45;
-    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--light: #323a45;
     --md-primary-fg-color--dark:  #90030C;
 }
