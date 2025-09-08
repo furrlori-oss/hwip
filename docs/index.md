@@ -13,4 +13,4 @@ HWIP is the U.S. Environmental Protection Agency’s repository for nationwide h
 
 Link to glossary
 
-Link to FAQ if we have one.
+Link to other information as applicable.
