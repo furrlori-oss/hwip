@@ -21,11 +21,11 @@ The unique EPA Identification Number assigned by EPA or authorized state agency 
 
 **Site Name**
 
-Search for facilities or permits by name or partial name. Be sure to try all possible variations of a facility's name. For example, if an abbreviation does not work, try using whole words (for example, International Metals Company instead of INMETCO). The search is not case sensitive. Anything else about how this works?
+Search for facilities or permits by name or partial name. If the search returns unexpected results, try other variations of a facility's name. For example, if an abbreviation does not work, try using whole words (for example, International Metals Company instead of INMETCO). The search is not case sensitive. Anything else about how this works?
 
 **Include Previous Site Names?**
 
-Edit this.
+Defaults to No. Click Yes if you would like to search on historical site names.
   
 **NAICS Codes**
 
@@ -41,34 +41,92 @@ Description.
 
 ### Location
 
-**Etc**
+**Use My Location**
 
 Description.
 
-**Etc**
+**Street Address**
+
+Description.
+
+**State**
+
+Description.
+
+**City**
+
+Description.
+
+**County**
+
+Description.
+
+**Zip Code**
+
+Description.
+
+**Latitude**
+
+Description.
+
+**Longitude**
+
+Description.
+
+**Radius**
 
 Description.
 
 ### Waste Treatment, Storage or Disposal
 
-**Etc**
+**Management Process Codes**
 
 Description.
 
-**Etc**
+**TSDF Status**
+
+Description.
+
+**Commercial Status**
+
+Desription.
+
+**Federal Waste Codes**
+
+Description.
+
+**State Waste Codes**
+
+Description.
 
 ### Waste Generation
 
-**Etc**
+**Federal Generator Category**
 
 Description.
 
-**Etc**
+**State Generator Category**
+
+Description.
+
+**Reported Episodic Event**
+
+Description.
+
+**Federal Waste Codes**
+
+Description.
+
+**State Waste Codes**
 
 Description.
 
 ### Additional Activities
 
-**Etc**
+**Federal Activity**
+
+Description.
+
+**State Activity**
 
 Description.
