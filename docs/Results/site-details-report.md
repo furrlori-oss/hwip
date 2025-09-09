@@ -1,3 +1,3 @@
 # Site Details Report Help
 
-Stuff
+Coming soon.
