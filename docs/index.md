@@ -6,11 +6,11 @@ HWIP is the U.S. Environmental Protection Agency’s repository for nationwide h
 
 ## Getting Started
 
-1. Overview of HWIP Features
-2. Video tutorial
+1. Overview of HWIP Features - coming soon.
+2. Video overview - coming soon.
 
 ## About the Data
 
-Link to glossary
+Glossary - coming soon.
 
-Link to other information as applicable.
+Link to other information, as applicable - coming soon.
