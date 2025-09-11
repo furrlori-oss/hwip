@@ -3,23 +3,14 @@ https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-co
 https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/_colors.scss
 */
 :root  > * {
-    --md-primary-fg-color:        #3e6d9b;
-    --md-primary-fg-color--light: #323a45;
-    --md-primary-fg-color--dark:  #90030C;
+    --md-primary-fg-color:                    #3e6d9b;
+    --md-primary-fg-color--light:             #323a45;
+    --md-primary-fg-color--dark:              #90030C;
+    --md-nav__link-color:                     #0369a1;
+    --md-nav__link-color--active:             #0369a1;
+    --md-nav__link-font-weight--active:       #0369a1;
+    --md-nav__link-hover-color:               #334155;
+    --md-nav__title-color:                    #008000;
+    --md-nav__title-color--light:             #111111;
+    --md-nav__title-color--dark:              #008000;
 }
-
-   /* Change the color of the TOC links */
-.md-nav__link {
-    color: #0369a1;
-    }
-
-    /* Change the color of the active TOC link */
-.md-nav__link.md-nav__link--active {
-    color: #0369a1;
-    font-weight: bold;
-    }
-
-    /* Change the color of the TOC title (e.g., "On this page") */
-.md-nav__title {
-    color: #008000; /* Green color */
-    }
