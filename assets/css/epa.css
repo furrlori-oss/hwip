@@ -8,30 +8,6 @@ https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/st
     --md-primary-fg-color--dark:  #90030C;
 }
 
-h1 { /* Styles level 1 headings */
-      color: #004271;
-    }
-
-h2 { /* Styles level 2 headings */
-      color: #004271;
-    }
-
-h3 { /* Styles level 3 headings */
-      color: #004271;
-    }
-
-h4 { /* Styles level 4 headings */
-      color: #004271;
-    }
-
-h5 { /* Styles level 5 headings */
-      color: #004271;
-    }
-
-h6 { /* Styles level 6 headings */
-      color: #004271;
-    }
-
    /* Change the color of the TOC links */
 .md-nav__link {
     color: #0369a1;
