@@ -1,6 +1,6 @@
 # Hazardous Waste Information Platform (HWIP)
 
-This repository houses the public help center content for RCRAInfo's Hazardous Waste Information Platform. 
+This repository houses the [public help center content](https://usepa.github.io/hwip/) for RCRAInfo's Hazardous Waste Information Platform. 
 
 ## Local Development
 
