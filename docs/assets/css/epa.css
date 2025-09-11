@@ -6,6 +6,7 @@ https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/st
 --md-primary-fg-color:        #3e6d9b;
 --md-primary-fg-color--light: #323a45;
 --md-primary-fg-color--dark:  #90030C;
+--md-accent-fg-color:         #334155;
 }
 
 .md-nav__link {
@@ -15,10 +16,6 @@ color: #0369a1;
 .md-nav__link.md-nav__link--active {
 color: #0369a1;
 font-weight: bold;
-}
-
-.md-nav__link:hover {
-color: #334155;
 }
 
 .md-nav__title {
