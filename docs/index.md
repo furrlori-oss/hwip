@@ -14,11 +14,13 @@ Short videos about individual HWIP features - coming soon.
 
 ### Overview of HWIP Features
 
-Environmental Protection Agency’s Hazardous Waste Information Platform (HWIP) is a public website that supports implementation of the Resource Conservation and Recovery Act. It provides nation-wide data about hazardous waste generation, management, and transportation in a variety of formats. This section describes the main features of the website.
+EPA’s Hazardous Waste Information Platform (HWIP) is a public website that supports implementation of the Resource Conservation and Recovery Act. It provides nationwide data about hazardous waste generation, management, and transportation in a variety of formats. This section describes the main features of the website.
 
 **Searching for Sites**
 
-To search for information about a particular hazardous waste site, Search by Site Name or ID on the home page. To search for information about hazardous waste sites in your area, Search by Location. Type the search term of interest and click search to get a map and list of the sites located in that area. To search for hazardous waste sites based on additional criteria, click Advanced Search on the left side menu.
+To search for information about a particular hazardous waste site, Search by Site Name or ID on the home page. Type an EPA RCRA Site Identification number or site name and click search to get a map and list of the sites that match the criteria. To search for information about hazardous waste sites in your area, Search by Location. Type a city, state, or zip code, and click search to get a map and list of the sites located in that area. 
+
+To search for hazardous waste sites based on additional criteria, click Advanced Search on the left side menu. This brings you to a search form that allows you to search for sites based on a broad variety of information about hazardous waste sites.
 
 **Data Trends and Analysis**
 
