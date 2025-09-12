@@ -1,6 +1,6 @@
 # Site Details Report Help
 
-Intro information.
+Intro information. Coming soon.
 
 ## What is a Site?
 
