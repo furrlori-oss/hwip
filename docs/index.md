@@ -6,15 +6,35 @@ HWIP is the U.S. Environmental Protection Agency’s repository for nationwide h
 
 ## Getting Started
 
-### Overview of HWIP Features
-
-Coming soon.
-
 ### Video Tutorials
 
 Introduction to HWIP - coming soon.
 
 Short videos about individual HWIP features - coming soon.
+
+### Overview of HWIP Features
+
+Environmental Protection Agency’s Hazardous Waste Information Platform (HWIP) is a public website that supports implementation of the Resource Conservation and Recovery Act. It provides nation-wide data about hazardous waste generation, management, and transportation in a variety of formats. This section describes the main features of the website.
+
+**Searching for Sites**
+
+To search for information about a particular hazardous waste site, Search by Site Name or ID on the home page. To search for information about hazardous waste sites in your area, Search by Location. Type the search term of interest and click search to get a map and list of the sites located in that area. To search for hazardous waste sites based on additional criteria, click Advanced Search on the left side menu.
+
+**Data Trends and Analysis**
+
+The Data Trends and Analysis page offers visualizations of hazardous waste data through dashboards, charts, maps, and tables.
+
+**Data Access**
+
+The Data Access page provides direct access to the data for those who wish to analyze large datasets. Click on "CSV Downloads" to download complete datasets. You can view the data with standard software such as Microsoft Excel, but database software may be necessary to analyze data.
+
+**Forms and Resources**
+
+The Forms and Resources page provides links to regulatory forms and information about common data submission procedures.
+
+**Help**
+
+The HWIP provides two sources of help about the website. Hover over circles with the letter 'i' inside for information about specific terminology. Click on Help - and look for the question mark icon on other HWIP pages - to find information related to using and understanding the website’s features.
 
 ## About the Data
 
