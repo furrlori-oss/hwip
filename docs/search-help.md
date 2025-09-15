@@ -60,31 +60,31 @@ Enter a street address. Be sure to try all possible variations and alternate spe
 
 **State**
 
-Description.
+Choose a state from the dropdown menu to search for hazardous waste sites located in the state.
 
 **City**
 
-Description.
+Type a city name to search for hazardous waste sites located in the city. Be sure to try all possible variations and alternate spellings (e.g., "Saint Louis" and "St. Louis"). To search for sites in a particular city, you must also specify a state using the State dropdown menu.
 
 **County**
 
-Description.
+To search for sites in a county, first select a state using the State dropdown menu, then select a county.
 
 **Zip Code**
 
-Description.
+Enter a five-digit ZIP code. It is recommended that you not combine a ZIP code search with a city or state search. 
 
 **Latitude**
 
-Description.
+Enter a valid latitude in decimal degrees into the text box. Must be used in conjunction with Longitude field. Radius defaults to 10 miles. Use the Radius field to change the value.
 
 **Longitude**
 
-Description.
+Enter a valid longitude in decimal degrees into the text box. Must be used in conjunction with Latitude field. Radius defaults to 10 miles. Use the Radius field to change the value.
 
 **Radius**
 
-Description.
+The Radius field is used in conjunction with Use my location and Latitude and Longitude. "10 miles" is selected by default, and you have the option to select 1, 5, 25, or 50 miles. The radius field may optionally be used with other location fields: Street Address, City, or Zip Code.
 
 ### Waste Treatment, Storage or Disposal
 
