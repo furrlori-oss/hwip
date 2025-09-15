@@ -10,9 +10,13 @@ The word “site” on this website refers to any type of regulated hazardous wa
 -	Searches that return a large number of facilities may load slowly. A loading indicator provides a visual indication that HWIP is retrieving results.
 -	You can narrow your search by specifying additional site characteristics. 
 ## Home Page Basic Search Criteria
-- Search by Site Name or ID
-- Search by Location
-- Use My Location
+### Search by Site Name or ID
+###  Search by Location
+
+To search for information about hazardous waste sites in your area, Search by Location. Type a city, state, or zip code, and click search.
+
+**Use My Location**
+
 ## Advanced Search Criteria
 ### Site
 **Site ID**
