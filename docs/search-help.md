@@ -46,17 +46,17 @@ The ownership designation of the land the hazardous waste site is located on, ac
 
 **EPA Purview**
 
-Search by [EPA Region](https://www.epa.gov/aboutepa/regional-and-geographic-offices#regional) for sites located outside of authorized state authority, such as those in Indian Ccuntry or federal waters.
+Search by [EPA Region](https://www.epa.gov/aboutepa/regional-and-geographic-offices#regional) for sites located outside of authorized state authority, such as those in Indian Country or federal waters.
 
 ### Location
 
 **Use My Location**
 
-Description.
+Search for hazardous waste sites located within a specified radius of your location. After clicking Use My Location, follow any prompts on your device to allow HWIP to use your location. Radius defaults to 10 miles. Use the Radius field to change the value.
 
 **Street Address**
 
-Description.
+Enter a street address. Be sure to try all possible variations and alternate spellings (e.g., "Route" and "Rte").
 
 **State**
 
