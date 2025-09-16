@@ -40,6 +40,12 @@ The HWIP provides two sources of help about the website. Hover over circles with
 
 ## About the Data
 
-Glossary - coming soon.
+### Glossary
 
-Link to other information, as applicable - coming soon.
+Link coming soon.
+
+### Data Use Disclaimer
+
+The information contained in RCRAInfo’s Hazardous Waste Information Platform (HWIP) is made available to the public by the U.S. Environmental Protection Agency (EPA) for informational purposes only. No warranty, express or implied, is made by EPA or any other agency of the U.S. Government regarding the accuracy, completeness, or currency of this information. Geospatial data are not independently verified by EPA and do not represent EPA's official position, viewpoint, or opinion, express or implied.
+
+HWIP is not designed for large scale data transfers or robotic queries. EPA reserves the right to disable users that initiate robotic, programmed queries.
