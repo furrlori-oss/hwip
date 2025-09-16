@@ -90,15 +90,28 @@ The Radius field is used in conjunction with Use my location and Latitude and Lo
 
 **Management Process Codes**
 
-Description.
+A process code represents a hazardous waste treatment, storage, or disposal process. The processes that will be used to treat, store, or dispose of hazardous waste at a facility are included in a facility's permit. Select a code to search for facilities that have at least one hazardous waste management unit where the most recent unit data includes the code. You may select multiple codes to return facilities that have at least one unit with on of the codes.
 
 **TSDF Status**
 
-Description.
+Search for Treatment, Storage, and Disposal Facilities based on the Operating Status of the facilities' most recent hazardous waste management unit data. 
+
+*Clean Closed*: The clean closed status indicates a unit that has completed clean closure. Closure is completed when all closure activities required by hazardous waste regulations have been completed and verified.
+
+*Closed With Waste In Place*: The closed with waste in places status indicates a unit that has completed closure with waste left in the unit and contained. Closure is completed when all closure activities required by hazardous waste regulations have been completed and verified.
+
+*Inactive/closing, but not yet RCRA Closed*: This status indicates a unit that has received its final amount of hazardous waste but has not completed all closure activities required by hazardous waste regulations.
+
+*Operating*: An Operating Treatment, Storage, and Disposal Facility is a facility that is subject to hazardous waste permit requirements and is treating, storing, or disposing of hazardous waste. This status includes every facility that has at least one hazardous waste management unit where the most recent unit data indicates it is actively managing hazardous waste.
+
+*Post-Closure Care*: This is a grouping of three operating statuses. 
+- Under Alternate Enforceable Document for Post-Closure Care: unit closed with waste in place or cannot attain clean closure and has an approved post-closure plan or similar enforceable document (such as a consent order) covering post-closure care obligations.
+- Referred to Corrective Action for Closure/Post-Closure: unit for which closure/post-closure requirements have been replaced by site-specific requirements developed for corrective action (hazardous waste cleanup) under regulatory authority.
+- Completed Post-Closure Care: unit for which the post-closure care period has been completed and not verified.
 
 **Commercial Status**
 
-Desription.
+Description.
 
 **Federal Waste Codes**
 
