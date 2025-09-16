@@ -40,6 +40,8 @@ The HWIP provides two sources of help about the website. Hover over circles with
 
 ## About the Data
 
+Data on the HWIP are updated weekly from EPA's RCRAInfo, the national hazardous waste program's data system.
+
 ### Glossary
 
 See the [Glossary](https://usepa.github.io/hwip/data/terms-glossary/) for information about the terms and abbreviations used on the HWIP.
