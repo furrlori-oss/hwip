@@ -98,7 +98,7 @@ Search for Treatment, Storage, and Disposal Facilities based on the Operating St
 
 *Clean Closed*: The clean closed status indicates a unit that has completed clean closure. Closure is completed when all closure activities required by hazardous waste regulations have been completed and verified.
 
-*Closed With Waste In Place*: The closed with waste in places status indicates a unit that has completed closure with waste left in the unit and contained. Closure is completed when all closure activities required by hazardous waste regulations have been completed and verified.
+*Closed With Waste In Place*: The closed with waste in place status indicates a unit that has completed closure with waste left in the unit and contained. Closure is completed when all closure activities required by hazardous waste regulations have been completed and verified.
 
 *Inactive/closing, but not yet RCRA Closed*: This status indicates a unit that has received its final amount of hazardous waste but has not completed all closure activities required by hazardous waste regulations.
 
@@ -111,7 +111,11 @@ Search for Treatment, Storage, and Disposal Facilities based on the Operating St
 
 **Commercial Status**
 
-Description.
+Search for Treatment, Storage, and Disposal Facilities based on the Commercial Status of the facilities' most recent hazardous waste management unit data. 
+
+*Commercial*: Facility accepts waste from a variety of off-site generators, or facility accepts waste from limited off-site generators by special agreement.
+
+*Non-Commercial*: Facility does not accept waste from off-site generators, or facility only accepts waste from related off-site generators.
 
 **Federal Waste Codes**
 
