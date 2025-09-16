@@ -42,7 +42,7 @@ The HWIP provides two sources of help about the website. Hover over circles with
 
 ### Glossary
 
-Link coming soon.
+See the [Glossary](https://usepa.github.io/hwip/data/terms-glossary/) for information about the terms and abbreviations used on the HWIP.
 
 ### Data Use Disclaimer
 
