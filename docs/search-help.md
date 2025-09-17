@@ -88,6 +88,8 @@ The Radius field is used in conjunction with Use my location and Latitude and Lo
 
 ### Waste Treatment, Storage or Disposal
 
+Note: searching by Management Process Codes, TSDF Status, and Commercial Status returns sites that have hazardous waste management units that meet the criteria selected for each of the search options.
+
 **Management Process Codes**
 
 A process code represents a hazardous waste treatment, storage, or disposal process. The processes that will be used to treat, store, or dispose of hazardous waste at a facility are included in a facility's permit. Select a code to search for facilities that have at least one hazardous waste management unit where the most recent unit data includes the code. You may select multiple codes to return facilities that have at least one unit with on of the codes.
@@ -109,6 +111,8 @@ Search for Treatment, Storage, and Disposal Facilities based on the Operating St
 - Referred to Corrective Action for Closure/Post-Closure: unit for which closure/post-closure requirements have been replaced by site-specific requirements developed for corrective action (hazardous waste cleanup) under regulatory authority.
 - Completed Post-Closure Care: unit for which the post-closure care period has been completed and not verified.
 
+Note: for information about the status of units at a TSDF, see the Permitting Details section of the Site Details Report. 
+
 **Commercial Status**
 
 Search for Treatment, Storage, and Disposal Facilities based on the Commercial Status of the facilities' most recent hazardous waste management unit data. 
@@ -117,35 +121,40 @@ Search for Treatment, Storage, and Disposal Facilities based on the Commercial S
 
 *Non-Commercial*: Facility does not accept waste from off-site generators, or facility only accepts waste from related off-site generators.
 
+Note: for the specific commercial status of a TSDF, see the Permitting Details section of the Site Details Report.
+
 **Federal Waste Codes**
 
-Description.
+Search for facilities that manage specific federal waste types according to hazardous waste manifests or the latest Biennial Hazardous Waste Report. You may select multiple codes to return facilities that manage at least one of the waste types selected.
 
 **State Waste Codes**
 
-Description.
+You must first select a State under Location to enable this search option. Note that not all states provide state-specific waste codes. Search for facilities that manage specific state waste types according to hazardous waste manifests or the latest Biennial Hazardous Waste Report. You may select multiple codes to return facilities that manage at least one of the waste types selected. 
 
 ### Waste Generation
 
 **Federal Generator Category**
 
-Description.
+Search for sites based on their Federal Generator Category. A generator produces a hazardous waste as listed or characterized in part 261 of title 40 of the Code of Federal Regulations. Federal generator categories:
+- Large Quantity Generators (LQGS) generate 1,000 kilograms per month or more of hazardous waste or more than one kilogram per month of acutely hazardous waste.
+- Small Quantity Generators (SQGs) generate more than 100 kilograms, but less than 1,000 kilograms of hazardous waste per month.
+- Very Small Quantity Generators (VSQGs) generate 100 kilograms or less per month of hazardous waste or one kilogram or less per month of acutely hazardous waste.
 
 **State Generator Category**
 
-Description.
+You must first select a State under Location to enable this search option. Note that not all states have state-specific generator categories. Search for sites based on their State Generator Category.
 
 **Reported Episodic Event**
 
-Description.
+Search for sites that reported a non-routine generation event in the last year. An episodic event, as defined in part 262 of title 40 of the Code of Federal Regulations, is an activity that does not normally occur during a generator’s operations and that causes that generator to exceed the threshold for its normal generator category for that month. Very small quantity generators and small quantity generators can experience episodic events, which can be planned or unplanned. 
 
 **Federal Waste Codes**
 
-Description.
+Search for sites that generate specific federal waste types according to hazardous waste manifests or the latest Biennial Hazardous Waste Report. You may select multiple codes to return sites that generate at least one of the waste types selected. 
 
 **State Waste Codes**
 
-Description.
+You must first select a State under Location to enable this search option. Note that not all states provide state-specific waste codes. Search for sites that generate specific state waste types according to hazardous waste manifests or the latest Biennial Hazardous Waste Report. You may select multiple codes to return sites that generate at least one of the waste types selected. 
 
 ### Additional Activities
 
