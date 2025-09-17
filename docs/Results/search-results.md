@@ -12,15 +12,15 @@ Description.
 
 Description.
 
-## Interact with the Map
+### Interact with the Map
 
 Description.
 
-## Interact with the Data Display
+### Interact with the Data Display
 
 Description. Include Sort.
 
-## Download Results
+### Download Results
 
 Description (table view only).
 
