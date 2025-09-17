@@ -2,7 +2,7 @@
 
 National data files may be downloaded by topic depending on your needs. Each dataset is a zip folder containing one or more comma-delimited text files. You can view the data with standard software such as Microsoft Excel, but database software may be necessary to analyze data. Options includes Access, MySQL, APEX, and GIS software.
 
-The [Data Element Dictionary] (https://rcrainfo.epa.gov/rcrainfo-help/application/publicHelp/index.htm) illustrates the organization of and defines the terms in the tables. Be sure to use this resource when analyzing CSV Downloads.
+The [Data Element Dictionary](https://rcrainfo.epa.gov/rcrainfo-help/application/publicHelp/index.htm) illustrates the organization of and defines the terms in the tables. Be sure to use this resource when analyzing CSV Downloads.
 
 ## Download Summary Information
 
