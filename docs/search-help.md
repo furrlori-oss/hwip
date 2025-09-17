@@ -160,8 +160,8 @@ You must first select a State under Location to enable this search option. Note 
 
 **Federal Activity**
 
-Description.
+Search for sites based on type of federal waste activity reported on the latest source record. Activities correspond to questions on the EPA Form 8700-12 (Site Identification Form).
 
 **State Activity**
 
-Description.
+You must first select a State under Location to enable this search option. Note that not all states have state-specific activity types. Search for sites based on type of state waste activity reported on the latest source record.
