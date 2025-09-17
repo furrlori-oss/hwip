@@ -72,6 +72,38 @@ When in the Table View, you may download your search results into a comma-separa
 
 ## Data
 
-**Site Name**: description.
+**Site Name**
 
-**Etc.**
+Description.
+
+**Site ID**
+
+Description.
+
+**Location Address**
+
+Description.
+
+**Active Status**
+
+Description.
+
+**Generator Status**
+
+Description.
+
+**TSDF Status**
+
+Description.
+
+**Cleanup Site**
+
+Description.
+
+**Transporter**
+
+Description.
+
+**Lat/Long**
+
+Description.
