@@ -168,16 +168,16 @@ Search for sites based on type of federal waste activity reported on the latest 
 - Hazardous Waste Cleanup Site: Site is on U.S. EPA's list of hazardous waste treatment, storage, and disposal facilities in the cleanup pipeline reflecting program priorities, known as the RCRA Corrective Action Progress Track.
 - Importer of Hazardous Waste: site imports hazardous waste into the U.S. from a foreign country. Importers must obtain an EPA identification number prior to engaging in import activities.
 - Importer/Exporter of Spent Lead Acid Batteries: site imports or exports spent lead-acid batteries.
-- Pharmaceutical Activities - Healthcare Facility: 
-- Pharmaceutical Activities - Reverse Distributor:
-- Recognized Trader:
-- Recycler of Hazardous Waste
+- Pharmaceutical Activities - Healthcare Facility: site managing hazardous waste pharmaceuticals under 40 CFR 266 Subpart P as a healthcare facility.
+- Pharmaceutical Activities - Reverse Distributor: site managing hazardous waste pharmaceuticals under 40 CFR 266 Subpart P as a reverse distributor, which is any person who receives and accumulates prescription pharmaceuticals that are potentially creditable hazardous waste pharmaceuticals for the purpose of facilitating or verifying manufacturer credit.
+- Recognized Trader: person domiciled in the U.S., by site of business, who acts to arrange and facilitate transboundary movements of wastes destined for recovery or disposal operations, either by purchasing from and subsequently selling to United States and foreign facilities, or by acting under arrangements with a U.S. waste facility to arrange for the export or import of the wastes.
+- Recycler of Hazardous Waste: site engaged in the recycling of regulated hazardous wastes ("recyclable materials") received from off-site. 
 - Transfer Facility: site holds manifested hazardous waste at the site for a period of ten days or less while the waste is in transit.
 - Transporter: site engaged in the off-site transportation of hazardous waste by air, rail, highway, or water.
-- Undergrond Injection Control
-- Universal Waste - Destination Facility
-- Universe Waste - Large Quantity Handler
-- Used Oil Activities
+- Underground Injection Control: site places hazardous waste or its residuals into an underground injection well (Class I well). 40 CFR 148 identifies wastes that are restricted from disposal into Class I wells and defines specific circumstances under which those wastes may be injected. The wells are regulated under Safe Drinking Water Act Underground Injection Control regulations.
+- Universal Waste - Destination Facility: site treats, disposes of, or recycles federal universal waste - batteries, pesticides, mercury containing equipment, lamps, and/or aerosol cans - on-site. 
+- Universe Waste - Large Quantity Handler: site accumulates 5,000 kilograms or more of at least one federal universal waste - batteries, pesticides, mercury containing equipment, lamps, and/or aerosol cans.
+- Used Oil Activities: used oil management activities take place at the site.
 
 **State Activity**
 
