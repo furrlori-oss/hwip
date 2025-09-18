@@ -14,6 +14,8 @@ Running a site search from the home page or the Advanced Search form brings you 
 
 You may modify your site search by changing either or both of the above and click Search.
 
+Note that the home page Location search returns sites that are within 10 miles of the center of location provided (whether city, state, or zip code). For a more specific, comprehensive search by location, use the Advanced Search.
+
 **From Advanced Search**
 
 Your search criteria is displayed in a bar above the results. Click "Search Criteria" to view the full list of criteria you entered on the form.
