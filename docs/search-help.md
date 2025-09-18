@@ -166,7 +166,7 @@ Search for sites based on type of federal waste activity reported on the latest 
 - Exempt Boiler and/or Industrial Furnace: site indicated it qualifies for the smelting, melting, and refining furnace exemption in 40 CFR 266.
 - Hazardous Secondary Materials: site managing hazardous secondary material (HSM) under 40 CFR 261.
 - Hazardous Waste Cleanup Site: Site is on U.S. EPA's list of hazardous waste treatment, storage, and disposal facilities in the cleanup pipeline reflecting program priorities, known as the RCRA Corrective Action Progress Track.
-- Importer of Hazardous Waste:
+- Importer of Hazardous Waste: 
 - Importer/Exporter of Spent Lead Acid Batteries:
 - Pharmaceutical Activities - Healthcare Facility:
 - Pharmaceutical Activities - Reverse Distributor:
