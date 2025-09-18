@@ -160,7 +160,24 @@ You must first select a State under Location to enable this search option. Note 
 
 **Federal Activity**
 
-Search for sites based on type of federal waste activity reported on the latest source record. Activities correspond to questions on the EPA Form 8700-12 (Site Identification Form).
+Search for sites based on type of federal waste activity reported on the latest source record. With the exception of Hazardous Waste Cleanup Site, activities correspond to questions on the EPA Form 8700-12 (Site Identification Form). Data is based on the site's most recent notification, which may no longer be accurate.
+
+- Academic Laboratory Activities: site managing laboratory hazardous waste under 40 CFR 262 Subpart K as an eligible academic laboratory.
+- Exempt Boiler and/or Industrial Furnace: site indicated it qualifies for the smelting, melting, and refining furnace exemption in 40 CFR 266.
+- Hazardous Secondary Materials: site managing hazardous secondary material (HSM) under 40 CFR 261.
+- Hazardous Waste Cleanup Site: Site is on U.S. EPA's list of hazardous waste treatment, storage, and disposal facilities in the cleanup pipeline reflecting program priorities, known as the RCRA Corrective Action Progress Track.
+- Importer of Hazardous Waste:
+- Importer/Exporter of Spent Lead Acid Batteries:
+- Pharmaceutical Activities - Healthcare Facility:
+- Pharmaceutical Activities - Reverse Distributor:
+- Recognized Trader:
+- Recycler of Hazardous Waste
+- Transfer Facility: site holds manifested hazardous waste at the site for a period of ten days or less while the waste is in transit.
+- Transporter: site engaged in the off-site transportation of hazardous waste by air, rail, highway, or water.
+- Undergrond Injection Control
+- Universal Waste - Destination Facility
+- Universe Waste - Large Quantity Handler
+- Used Oil Activities
 
 **State Activity**
 
