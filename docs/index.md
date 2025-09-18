@@ -18,7 +18,9 @@ EPA’s Hazardous Waste Information Platform (HWIP) is a public website that sup
 
 **Searching for Sites**
 
-To search for information about a particular hazardous waste site, Search by Site Name or ID on the home page. Type an EPA RCRA Site Identification number or site name and click search to get a map and list of the sites that match the criteria. To search for information about hazardous waste sites in your area, Search by Location. Type a city, state, or zip code, and click search to get a map and list of the sites located in that area. 
+To search for information about a particular hazardous waste site, Search by Site Name or ID on the home page. Type an EPA RCRA Site Identification number or site name and click search to get a map and list of the sites that match the criteria. 
+
+To search for information about hazardous waste sites in your area, Search by Location. Type a city, state, or zip code, and click search to get a map and list of the sites located in that area. Please note that this search returns sites that are within 10 miles of the center of location provided (whether city, state, or zip code). For a more specific, comprehensive search by location, use the Advanced Search.
 
 To search for hazardous waste sites based on additional criteria, click Advanced Search on the left side menu. This brings you to a search form that allows you to search for sites based on a broad variety of information about hazardous waste sites.
 
