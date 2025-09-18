@@ -14,4 +14,4 @@ A secondary material (e.g., spent material, by-product, or sludge) that, when di
 
 **RCRA**
 
-The Resource Conservation and Recovery Act (RCRA) is a federal law that establishes the framework for managing hazardous and non-hazardous solid waste. The HWIP generally focuses on the hazardous waste side of RCRA.
+The Resource Conservation and Recovery Act (RCRA) is a federal law that establishes the framework for managing hazardous and non-hazardous solid waste. HWIP generally focuses on hazardous waste management.
