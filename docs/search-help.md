@@ -38,7 +38,7 @@ Defaults to No. Click Yes if you would like to search on historical site names.
   
 **NAICS Codes**
 
-A 2- to 6-digit code indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. [Census Bureau](https://www.census.gov/naics/). The first two digits represent the Industry sector, in which there exist 20 broad sectors. Each digit adds more specificity. Typing a value in the search bar gives the list of all codes that contain that value. Click the box next to your search value to select all returned codes.
+A 2- to 6-digit code indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. [Census Bureau](https://www.census.gov/naics/). The first two digits represent the Industry sector, in which there exist 20 broad sectors. Each digit adds more specificity. Typing a value in the search bar gives the list of all codes that contain that value. Click the box next to your search value to select all returned codes, or select individual codes by clicking the box next to each code of interest.
 
 **Land Ownership**
 
