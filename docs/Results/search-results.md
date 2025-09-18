@@ -57,7 +57,7 @@ Click on map pins to view the site's name and address. This action also highligh
 ### Download Results
 
 When in the Table View, you may download your search results into a comma-separated values (CSV) file. CSV files can opened in spreadsheet software, such as Excel, for analysis.
-- Click Full Dataset to download the facilities in your list along with additional data about each facility.
+- Click Full Dataset to download the facilities in your list along with additional data about each facility. The Full Dataset option is available for a results set of 10,000 sites or less.
 - Click Quick CSV to download the facilities in your list with only the data you see on the screen.
 
 ### Adjust Search Criteria
