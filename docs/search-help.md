@@ -6,13 +6,13 @@ The word “site” on this website refers to any type of regulated hazardous wa
 -	You must specify at least one search term.
 -	You need only specify the search terms that are of most interest to you. 
 -	On the Advanced Search, expand or collapse the categories by clicking the corresponding arrow. 
--	On the Advanced Search, clicking the Reset bottom at the bottom of the page removes all of your selections.
+-	On the Advanced Search, clicking the Reset button at the bottom of the page removes all of your selections.
 -	Searches that return a large number of facilities may load slowly. A loading indicator provides a visual indication that HWIP is retrieving results.
 -	You can narrow your search by specifying additional site characteristics. 
 ## Home Page Basic Search Criteria
 ### Search by Site Name or ID
 
-To search for information about a particular hazardous waste site, Search by Site Name or ID. Enter a 12-digit EPA RCRA Site Identification number or a the name of a site and click Search. 
+To search for information about a particular hazardous waste site, Search by Site Name or ID. Enter a 12-digit EPA RCRA Site Identification number or the name of a site and click Search. 
 
 ###  Search by Location
 
@@ -38,7 +38,7 @@ Defaults to No. Click Yes if you would like to search on historical site names.
   
 **NAICS Codes**
 
-A 2- to 6-digit code indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. [Census Bureau](https://www.census.gov/naics/). The first two digits represent the Industry sector, in which there exist 20 broad sectors. Each digit adds more specificity. How many digits must users include? Add how the search function functions.
+A 2- to 6-digit code indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. [Census Bureau](https://www.census.gov/naics/). The first two digits represent the Industry sector, in which there exist 20 broad sectors. Each digit adds more specificity. Typing a value in the search bar gives the list of all codes that contain that value. Click the box next to your search value to select all returned codes.
 
 **Land Ownership**
 
