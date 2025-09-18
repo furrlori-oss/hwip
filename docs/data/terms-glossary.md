@@ -11,3 +11,7 @@ May also be referred to as Site ID, Handler ID, or RCRA ID Number. The EPA ID Nu
 **Hazardous Secondary Material (HSM)**
 
 A secondary material (e.g., spent material, by-product, or sludge) that, when discarded, would be identified as hazardous waste under 40 CFR Part 261. Facilities managing hazardous secondary material under 40 CFR 261.2(a) or 40 CFR 261.4(a) must complete the Addendum to the Site Identification Form: Notification for Managing Hazardous Secondary Material.
+
+**RCRA**
+
+The Resource Conservation and Recovery Act (RCRA) is a federal law that establishes the framework for managing hazardous and non-hazardous solid waste. The HWIP generally focuses on the hazardous waste side of RCRA.
