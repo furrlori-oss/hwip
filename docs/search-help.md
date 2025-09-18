@@ -16,7 +16,7 @@ To search for information about a particular hazardous waste site, Search by Sit
 
 ###  Search by Location
 
-To search for information about hazardous waste sites in a particular area, Search by Location. Type a city, state, or zip code, and click search.
+To search for information about hazardous waste sites in a particular area, Search by Location. Type a city, state, or zip code, and click search. Note that this search returns sites that are within 10 miles of the center of location provided (whether city, state, or zip code). For a more specific, comprehensive search by location, use the Advanced Search.
 
 **Use My Location**
 
@@ -165,13 +165,13 @@ Search for sites based on type of federal waste activity reported on the latest 
 - Academic Laboratory Activities: site managing laboratory hazardous waste under 40 CFR 262 Subpart K as an eligible academic laboratory.
 - Exempt Boiler and/or Industrial Furnace: site indicated it qualifies for the smelting, melting, and refining furnace exemption in 40 CFR 266.
 - Hazardous Secondary Materials: site managing hazardous secondary material (HSM) under 40 CFR 261.
-- Hazardous Waste Cleanup Site: Site is on U.S. EPA's list of hazardous waste treatment, storage, and disposal facilities in the cleanup pipeline reflecting program priorities, known as the RCRA Corrective Action Progress Track.
+- Hazardous Waste Cleanup Site: site is on U.S. EPA's list of hazardous waste treatment, storage, and disposal facilities in the cleanup pipeline reflecting program priorities, known as the RCRA Corrective Action Progress Track.
 - Importer of Hazardous Waste: site imports hazardous waste into the U.S. from a foreign country. Importers must obtain an EPA identification number prior to engaging in import activities.
 - Importer/Exporter of Spent Lead Acid Batteries: site imports or exports spent lead-acid batteries.
 - Pharmaceutical Activities - Healthcare Facility: site managing hazardous waste pharmaceuticals under 40 CFR 266 Subpart P as a healthcare facility.
 - Pharmaceutical Activities - Reverse Distributor: site managing hazardous waste pharmaceuticals under 40 CFR 266 Subpart P as a reverse distributor, which is any person who receives and accumulates prescription pharmaceuticals that are potentially creditable hazardous waste pharmaceuticals for the purpose of facilitating or verifying manufacturer credit.
-- Recognized Trader: person domiciled in the U.S., by site of business, who acts to arrange and facilitate transboundary movements of wastes destined for recovery or disposal operations, either by purchasing from and subsequently selling to United States and foreign facilities, or by acting under arrangements with a U.S. waste facility to arrange for the export or import of the wastes.
-- Recycler of Hazardous Waste: site engaged in the recycling of regulated hazardous wastes ("recyclable materials") received from off-site. 
+- Recognized Trader: person domiciled in the U.S., by site of business, who acts to arrange and facilitate transboundary movements of wastes destined for recovery or disposal operations, either by purchasing from and subsequently selling to U.S. and foreign facilities, or by acting under arrangements with a U.S. waste facility to arrange for the export or import of the wastes.
+- Recycler of Hazardous Waste: site engaged in the recycling of regulated hazardous wastes ("recyclable materials") received from off-site according to hazardous waste regulations. 
 - Transfer Facility: site holds manifested hazardous waste at the site for a period of ten days or less while the waste is in transit.
 - Transporter: site engaged in the off-site transportation of hazardous waste by air, rail, highway, or water.
 - Underground Injection Control: site places hazardous waste or its residuals into an underground injection well (Class I well). 40 CFR 148 identifies wastes that are restricted from disposal into Class I wells and defines specific circumstances under which those wastes may be injected. The wells are regulated under Safe Drinking Water Act Underground Injection Control regulations.
