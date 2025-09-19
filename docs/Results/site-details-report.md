@@ -1,6 +1,6 @@
 # Site Details Report Help
 
-Intro information. Coming soon.
+The Site Details Report provides the latest data about a single hazardous waste handler.
 
 ## What is a Site?
 
