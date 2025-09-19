@@ -63,40 +63,34 @@ This table displays any non-routine waste generation events reported in the last
 
 Description
 
-## Permitting
-
-### Permitting Details
+### Permitting
 
 The Permitting Details table
 
-## Manifests
+### Manifests
 
-### Manifest Shipments
-
-Description
-
-### Manifest Receipts
+**Manifest Shipments**
 
 Description
 
-## Biennial Report
-
-### Biennial Report Summary
-
-Decription
-
-## Waste Generated or Management
-
-### Federal Waste Codes
+**Manifest Receipts**
 
 Description
 
-### State Waste Codes
+### Biennial Report
+
+The Biennial Report Summary table 
+
+### Waste Generated or Management
+
+**Federal Waste Codes**
 
 Description
 
-## Site History
-
-### Site History Details
+**State Waste Codes**
 
 Description
+
+### Site History
+
+The Site History Details table
