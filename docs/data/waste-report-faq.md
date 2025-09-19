@@ -1,6 +1,6 @@
 # Biennial Hazardous Waste Reporting Frequently Asked Questions
 
-**1. What is the Biennial Report and who must submit it?**
+# **1. What is the Biennial Report and who must submit it?**
 Pursuant to Section 3002(a)(6) of the Resource Conservation and Recovery Act, as amended, (RCRA), Congress required the U.S. Environmental Protection Agency (EPA) to develop a program for hazardous waste generators to report the nature, quantities, and disposition of hazardous waste generated. In addition, Section 3004(a)(2) of RCRA requires treatment, storage, and disposal facilities (TSDFs) to submit a report on the wastes that they receive from off-site. The biennial Hazardous Waste Report (also known as the "Biennial Report") was implemented to comply with these requirements.
 
 The Biennial Report compiles data collected about the generation, management, and final disposition of RCRA hazardous waste in the United States. Large quantity generators (LQGs) and TSDFs are required to submit information on waste generation and management activities occurring in odd numbered years (40 CFR 262.41 for LQGs, and 40 CFR 264.75 and 40 CFR 265.75 for TSDFs).
