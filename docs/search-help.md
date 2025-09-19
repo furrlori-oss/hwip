@@ -136,6 +136,7 @@ You must first select a State under Location to enable this search option. Note 
 **Federal Generator Category**
 
 Search for sites based on their Federal Generator Category. A generator produces a hazardous waste as listed or characterized in part 261 of title 40 of the Code of Federal Regulations. Federal generator categories:
+
 - Large Quantity Generators (LQGS) generate 1,000 kilograms per month or more of hazardous waste or more than one kilogram per month of acutely hazardous waste.
 - Small Quantity Generators (SQGs) generate more than 100 kilograms, but less than 1,000 kilograms of hazardous waste per month.
 - Very Small Quantity Generators (VSQGs) generate 100 kilograms or less per month of hazardous waste or one kilogram or less per month of acutely hazardous waste.
