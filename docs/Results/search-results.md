@@ -92,20 +92,24 @@ Active or Inactive site designation is based on the data in EPA's RCRAInfo syste
 
 **Generator Category**
 
-Displays the federal generator category for hazardous waste generators. 
+Displays the federal generator category of hazardous waste generators. No value means the site does not meet the definition of a federal generator.
+
+- Large: Large Quantity Generators (LQGS) generate 1,000 kilograms per month or more of hazardous waste or more than one kilogram per month of acutely hazardous waste.
+- Small: Small Quantity Generators (SQGs) generate more than 100 kilograms, but less than 1,000 kilograms of hazardous waste per month.
+- Very Small: Very Small Quantity Generators (VSQGs) generate 100 kilograms or less per month of hazardous waste or one kilogram or less per month of acutely hazardous waste.
 
 **TSDF Status**
 
-Description.
+Displays the operating status of Treatment, Storage, and Disposal Facilities (TSDFs). No value means the site is not a TSDF.
 
 **Cleanup Site**
 
-Description.
+Site is on EPA's list of hazardous waste treatment, storage, and disposal facilities in the cleanup pipeline reflecting program priorities, known as the RCRA Corrective Action Progress Track. No value means the site is not on this list.
 
 **Transporter**
 
-Description.
+site engaged in the off-site transportation of hazardous waste by air, rail, highway, or water. No value means the site is not a transporter.
 
 **Lat/Long**
 
-Description.
+The latitude and longitude coordinates of the site's location.
