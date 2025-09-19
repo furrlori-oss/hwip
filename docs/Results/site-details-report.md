@@ -86,7 +86,7 @@ This table summarizes the waste received at site by year, based on the data on h
 
 The Biennial Report Summary table summarizes the waste reported handled by this site by year, based on the Biennial Hazardous Waste Report.
 
-### Waste Generated or Management
+### Waste Generated or Managed
 
 **Federal Waste Codes**
 
