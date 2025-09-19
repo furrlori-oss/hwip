@@ -108,7 +108,7 @@ Site is on EPA's list of hazardous waste treatment, storage, and disposal facili
 
 **Transporter**
 
-site engaged in the off-site transportation of hazardous waste by air, rail, highway, or water. No value means the site is not a transporter.
+Site is engaged in the off-site transportation of hazardous waste by air, rail, highway, or water. No value means the site is not a transporter.
 
 **Lat/Long**
 
