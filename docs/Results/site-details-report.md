@@ -13,6 +13,7 @@ The word “site” on this website refers to any type of regulated hazardous wa
 - *Card*: The card on the top left of the report displays basic site identification information. Scroll down the report for details.
 - *Map*: Click the "Expand" button to view the map in full screen. Click "Collapse" to return the map to its original size. The "Layers" section allows you to toggle the base map between street or satellite view. 
 - *Jump to Section*: the contents of the report are listed as links that take you directly to that section of the report.
+- *Table Sort Arrows*: certain tables on the report have up and down arrows next to the column names. Click on a set of arrows to sort the data in the table by that column.
   
 ## Data Sections
 
@@ -57,40 +58,44 @@ This table displays any state waste activities reported on the latest source rec
 
 ### Recent Episodic Events
 
-This table displays any non-routine waste generation events reported in the last year. An episodic event, as defined in part 262 of title 40 of the Code of Federal Regulations, is an activity that does not normally occur during a generator’s operations and that causes that generator to exceed the threshold for its normal generator category for that month. Very small quantity generators and small quantity generators can experience episodic events, which can be planned or unplanned.
+The Recent Episodic Events table displays any non-routine waste generation events reported in the last year. An episodic event, as defined in part 262 of title 40 of the Code of Federal Regulations, is an activity that does not normally occur during a generator’s operations and that causes that generator to exceed the threshold for its normal generator category for that month. Very small quantity generators and small quantity generators can experience episodic events, which can be planned or unplanned.
 
 ### Hazardous Waste Cleanups
 
-Description
+The Hazardous Waste Cleanups table displays, for hazardous waste cleanup sites
+- whether events related to corrective action remedy selection and remedy construction have been reported. 
+- whether human exposure and groundwater events have been reported reported on in the Environmental Indicators column. 
+- whether the ready for anticipated use event has been reported.
+- whether performance standards were attained and cleanup process terminated. 
 
 ### Permitting
 
-The Permitting Details table
+The Permitting Details table shows the latest unit details of the hazardous waste management units that are or were at the site. Note that the latest status update may have taken place years ago.
 
 ### Manifests
 
 **Manifest Shipments**
 
-Description
+This table summarizes the waste shipped from the site by year, based on the data on hazardous waste manifests. 
 
 **Manifest Receipts**
 
-Description
+This table summarizes the waste received at site by year, based on the data on hazardous waste manifests. 
 
 ### Biennial Report
 
-The Biennial Report Summary table 
+The Biennial Report Summary table summarizes the waste reported handled by this site by year, based on the Biennial Hazardous Waste Report.
 
 ### Waste Generated or Management
 
 **Federal Waste Codes**
 
-Description
+This table lists all federal hazardous waste handled at the site, according to at least one of three information sources (latest Site ID Form, last year of manifests, and/or latest Biennial Hazardous Waste Report), along with which source included the waste type. 
 
 **State Waste Codes**
 
-Description
+This table lists all state hazardous waste handled at the site, according to at least one of three information sources (latest Site ID Form, last year of manifests, and/or latest Biennial Hazardous Waste Report), along with which source included the waste type. Note that not all states have state-specific waste codes.
 
 ### Site History
 
-The Site History Details table
+The Site History Details table lists all previous names and federal generator categories for the site, along with date the information was received in EPA's RCRAInfo.
