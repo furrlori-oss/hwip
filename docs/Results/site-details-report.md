@@ -30,7 +30,7 @@ This table lists each of the site's owners, operators, and contacts, according t
 
 This table lists all NAICS codes listed for the site, according to the latest source record. These are 2- to 6-digit codes indicating the industrial activity of the site as defined by the North American Industry Classification System (NAICS), which is maintained by the U.S. Census Bureau. The first two digits represent the Industry sector, and each digit adds more specificity.
 
-### Federal Activities
+**Federal Activities**
 
 Lists each type of federal waste activity reported on the latest source record. With the exception of Hazardous Waste Cleanup Site, activities correspond to questions on the EPA Form 8700-12 (Site Identification Form). Data is based on the site's most recent notification, which may no longer be accurate. Only the activities that apply to the facility are listed and may include:
 
@@ -59,8 +59,6 @@ This table displays any state waste activities reported on the latest source rec
 
 This table displays any non-routine waste generation events reported in the last year. An episodic event, as defined in part 262 of title 40 of the Code of Federal Regulations, is an activity that does not normally occur during a generator’s operations and that causes that generator to exceed the threshold for its normal generator category for that month. Very small quantity generators and small quantity generators can experience episodic events, which can be planned or unplanned.
 
-## Hazardous Waste Cleanups
-
 ### Hazardous Waste Cleanups
 
 Description
@@ -69,7 +67,7 @@ Description
 
 ### Permitting Details
 
-Description
+The Permitting Details table
 
 ## Manifests
 
