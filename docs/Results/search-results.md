@@ -76,23 +76,23 @@ When in the Table View, you may download your search results into a comma-separa
 
 **Site Name**
 
-Description.
+The name of the hazardous waste handler.
 
 **Site ID**
 
-Description.
+The unique EPA Identification Number assigned by EPA or authorized state agency to the hazardous waste handler.
 
 **Location Address**
 
-Description.
+The physical address of the site.
 
 **Active Status**
 
-Description.
+Active or Inactive site designation is based on the data in EPA's RCRAInfo system. "Active" indicates activities may be occurring at the site that are regulated under Subtitle C of the Resource Conservation and Recovery Act or an authorized state's hazardous waste management program. This designation has no legal or regulatory significance.
 
-**Generator Status**
+**Generator Category**
 
-Description.
+Displays the federal generator category for hazardous waste generators. 
 
 **TSDF Status**
 
