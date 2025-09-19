@@ -4,7 +4,7 @@ The Hazardous Waste Information Platform’s Site Searches query a database of h
 The word “site” on this website refers to any type of regulated hazardous waste handler, including hazardous waste generators, transporters, and treatment, storage, and disposal facilities.
 ## Search Tips
 -	You must specify at least one search term.
--	You need only specify the search terms that are of most interest to you. 
+-	You need only specify the search terms that are of most interest to you.
 -	On the Advanced Search, expand or collapse the categories by clicking the corresponding arrow. 
 -	On the Advanced Search, clicking the Reset button at the bottom of the page removes all of your selections.
 -	Searches that return a large number of facilities may load slowly. A loading indicator provides a visual indication that HWIP is retrieving results.
