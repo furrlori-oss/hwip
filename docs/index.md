@@ -42,7 +42,7 @@ The HWIP provides two sources of help about the website. Hover over circles with
 
 ## About the Data
 
-Data on the HWIP are updated weekly from EPA's RCRAInfo, the national hazardous waste program's data system.
+Data on the HWIP are updated weekly from EPA's RCRAInfo, the national hazardous waste program's data system. Data in RCRAInfo comes from regulated industry, authorized state agencies, and EPA.
 
 ### Glossary
 
