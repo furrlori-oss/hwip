@@ -8,11 +8,11 @@ The word “site” on this website refers to any type of regulated hazardous wa
 
 ## Report Features
 
-- Share
-- Print PDF
-- Card
-- Map
-- Contents
+- *Share*: The Share button copies the reports web address to your clipboard for easy pasting into a message.
+- *Print PDF*: The Print PDF button opens your devices print feature so that you can save or print a static copy of the report.
+- *Card*: The card on the top left of the report displays basic site identification information. Scroll down the report for details.
+- *Map*: Click the "Expand" button to view the map in full screen. Click "Collapse" to return the map to its original size. The "Layers" section allows you to toggle the base map between street or satellite view. 
+- *Jump to Section*: the contents of the report are listed as links that take you directly to that section of the report.
   
 ## Data Sections
 
