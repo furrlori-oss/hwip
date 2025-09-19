@@ -147,7 +147,7 @@ You must first select a State under Location to enable this search option. Note 
 
 **Reported Episodic Event**
 
-Search for sites that reported a non-routine generation event in the last year. An episodic event, as defined in part 262 of title 40 of the Code of Federal Regulations, is an activity that does not normally occur during a generator’s operations and that causes that generator to exceed the threshold for its normal generator category for that month. Very small quantity generators and small quantity generators can experience episodic events, which can be planned or unplanned. 
+Search for sites that reported a non-routine waste generation event in the last year. An episodic event, as defined in part 262 of title 40 of the Code of Federal Regulations, is an activity that does not normally occur during a generator’s operations and that causes that generator to exceed the threshold for its normal generator category for that month. Very small quantity generators and small quantity generators can experience episodic events, which can be planned or unplanned. 
 
 **Federal Waste Codes**
 
