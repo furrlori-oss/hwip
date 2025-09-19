@@ -94,7 +94,7 @@ Active or Inactive site designation is based on the data in EPA's RCRAInfo syste
 
 Displays the federal generator category of hazardous waste generators. No value means the site does not meet the definition of a federal generator.
 
-- Large: Large Quantity Generators (LQGS) generate 1,000 kilograms per month or more of hazardous waste or more than one kilogram per month of acutely hazardous waste.
+- Large: Large Quantity Generators (LQGs) generate 1,000 kilograms per month or more of hazardous waste or more than one kilogram per month of acutely hazardous waste.
 - Small: Small Quantity Generators (SQGs) generate more than 100 kilograms, but less than 1,000 kilograms of hazardous waste per month.
 - Very Small: Very Small Quantity Generators (VSQGs) generate 100 kilograms or less per month of hazardous waste or one kilogram or less per month of acutely hazardous waste.
 
